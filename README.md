@@ -25,7 +25,7 @@ In this example, JavaScript converts the number `1` into a string, in order for 
 </p>
 </details>
 
----
+--
 
 ---
 
